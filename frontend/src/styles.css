@@ -51,3 +51,28 @@ body {
 .mb-20 {
   margin-bottom: 20px;
 }
+
+/* Enhanced Snackbar Styles */
+.success-snackbar {
+  background-color: #4caf50 !important;
+  color: white !important;
+  font-weight: 500 !important;
+}
+
+.error-snackbar {
+  background-color: #f44336 !important;
+  color: white !important;
+  font-weight: 500 !important;
+}
+
+.warning-snackbar {
+  background-color: #ff9800 !important;
+  color: white !important;
+  font-weight: 500 !important;
+}
+
+.info-snackbar {
+  background-color: #2196f3 !important;
+  color: white !important;
+  font-weight: 500 !important;
+}
